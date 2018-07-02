@@ -3,9 +3,9 @@
 def display_board
   first  ="   |   |   "
   second ="-----------"
-  first
-  second
-  first
-  second
-  first
+  puts first
+  puts second
+  puts first
+  puts second
+  puts first
 end
